@@ -1,0 +1,11 @@
+.middle-align {
+    text-align:center;
+}
+#wasteSpace {
+    background: #f42e6d;
+    height:20px;
+}
+#wasteSpacetext {
+    color: yellow;
+    text-align: center;
+}
