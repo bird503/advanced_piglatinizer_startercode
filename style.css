@@ -9,3 +9,18 @@
     color: yellow;
     text-align: center;
 }
+button {
+    height:30px;
+}
+#wordEnglishheading {
+    height:16px;
+}
+#englishDisplay {
+    height:100px;
+}
+#piglatinDisplay {
+    height:100px;
+}
+#wordPiglatinheading {
+    height:16px;
+}
