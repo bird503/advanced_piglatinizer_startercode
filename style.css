@@ -2,11 +2,11 @@
     text-align:center;
 }
 #wasteSpace {
-    background: #f42e6d;
+    background: #ed1c5a;
     height:20px;
 }
 #wasteSpacetext {
-    color: yellow;
+    color: #ede91c;
     text-align: center;
 }
 button {
@@ -23,4 +23,7 @@ button {
 }
 #wordPiglatinheading {
     height:16px;
+}
+body {
+    background-color:#811ced;
 }
